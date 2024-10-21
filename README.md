@@ -25,3 +25,12 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   </a>
 </div>
+<hr/>
+<h2 align="center"> Languages - Frameworks - Tools </h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python"/>
+    <img src="https://skillicons.dev/icons?i=css"/>
+  </a>
+</div>

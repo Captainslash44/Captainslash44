@@ -11,5 +11,6 @@
 
 <div align="center">
   I'm currently learning to develop software.
+  
   I'm learning Structures and Algorithms.
 </div>

@@ -5,16 +5,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=34F70C&width=500&height=100&lines=Ladies+and+Gentlemen;Welcome+to+my+domain." alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center" style="font-family:Arima !important">My motto is simple; your maximum pullups count should surpass the number of lines in your functions.</h3>
+<h3 align="center">My motto is simple; your maximum pullups count should surpass the number of lines in your functions.</h3>
 
 <br/>
 
 <div align="center">
-  I'm currently learning to develop software.
+  Obviously, I am a software developer.
   
-  I'm learning Structures and Algorithms.
+  But I also draw, read, write (fiction and non-fiction), play pingpong, run marathons, do resistance training and cook!
 
-  My hobbies include: Reading, Writing and Excercise.
+  Don't limit yourself to what you are familiar with.
 </div>
 
 <div align= "center">

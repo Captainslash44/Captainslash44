@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=34F70C&width=500&height=100&lines=Ladies+and+Gentlemen;Welcome+to+my+domain." alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">The number of lines in your functions should not surpass your maximum pullups.</h3>
+<h3 align="center" font-family="Arima">My motto is simple; your maximum pullups count should not surpass the number of lines in your functions.</h3>
 
 <br/>
 

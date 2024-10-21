@@ -11,12 +11,15 @@
 
 <div align="center">
   Obviously, I am a software developer.
+  
   <br/>
   But I also draw, read, write, play pingpong, run marathons, do resistance training and cook!
+  
   <br/>
   Don't limit yourself to what you are familiar with.
+  
 </div>
-
+<br/>
 <div align= "center">
   <a href="https://www.linkedin.com/in/halim-njeim-535878216/" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"/>

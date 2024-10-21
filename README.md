@@ -11,15 +11,13 @@
 
 <div align="center">
   Obviously, I am a software developer.
-  
-  
+  <br/>
   <br/>
   But I also draw, read, write, play pingpong, run marathons, do resistance training and cook!
-  
-  
+  <br/>
   <br/>
   Don't limit yourself to what you are familiar with.
-  
+  <br/>
 </div>
 <br/>
 <div align= "center">

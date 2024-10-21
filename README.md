@@ -11,10 +11,9 @@
 
 <div align="center">
   Obviously, I am a software developer.
-  
-  
+  <br/>
   But I also draw, read, write, play pingpong, run marathons, do resistance training and cook!
-
+  <br/>
   Don't limit yourself to what you are familiar with.
 </div>
 

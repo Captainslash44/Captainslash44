@@ -4,8 +4,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=34F70C&width=500&height=100&lines=Ladies+and+Gentlemen;Welcome+to+my+domain." alt="Typing SVG" /></a>
 </h1>
+<div align="center">
+  <img align="center" src="https://media.tenor.com/iCqG_iT-h48AAAAM/bills-ugh.gif"/>
+</div>
+
 
 <h3 align="center">My motto is simple; your maximum pullups count should surpass the number of lines in your functions.</h3>
+
 
 <br/>
 
@@ -20,6 +25,7 @@
   <br/>
 </div>
 <br/>
+<div align="center"><img align="center" src="https://media.tenor.com/FwEs7R7IHasAAAAM/cat-exercise.gif"/></div>
 <div align= "center">
   <a href="https://www.linkedin.com/in/halim-njeim-535878216/" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"/>

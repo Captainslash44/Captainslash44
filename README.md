@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  Obviously, I am a software developer.
+  I am a Junior Software Developer.
   <br/>
   <br/>
   But I also draw, read, write, play pingpong, run marathons, do resistance training and cook!

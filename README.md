@@ -30,8 +30,11 @@
   <a href="https://www.linkedin.com/in/halim-njeim-535878216/" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"/>
     </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <a href="https://www.facebook.com/profile.php?id=100076426295199">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/captainslash/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </div>
 <hr/>

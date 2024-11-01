@@ -14,7 +14,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   I am a Junior Software Developer.
   <br/>
   <br/>
